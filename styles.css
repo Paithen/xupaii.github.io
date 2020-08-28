@@ -1,0 +1,39 @@
+body {
+    background-color: bisque; 
+    margin-left:190px;
+	margin-right:400px;
+	padding-left:0px 10px;
+	font-family:verdana !important;
+	padding-left:10px;
+}
+
+hr {
+	border:1px solid black;
+}
+
+.sidebar {
+    text-align:center;
+	height:100%;
+	width:190px;
+	border:1px solid black;
+	position:fixed;
+	z-index:1;
+	top:0;
+	left:0;
+	background-color:tomato !important;
+	overflow-x:hidden;
+	padding-top:20px;
+	font-size:27px
+}
+
+.normal {
+    font-size: 14pt;
+}
+
+.title {
+    font-size: 20pt;
+}
+
+.halfsize {
+    width:50%;
+}
